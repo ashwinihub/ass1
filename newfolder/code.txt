@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ufgvdiukf
 jbdugvbdfkvuj
 bnvufdhvbhi everyone..
@@ -12,3 +13,7 @@ bxvcsiduwknc
 
 github
 
+=======
+kjfvn;odifh
+jfkbnogib
+>>>>>>> 3ee6f83b3925a9555955791df0bccae433fbfbab
